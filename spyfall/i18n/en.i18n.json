@@ -36,6 +36,7 @@
         "casino": "Casino",
         "day spa": "Day Spa",
         "embassy": "Embassy",
+        "farm" : "Farm",
         "hospital": "Hospital",
         "hotel": "Hotel",
         "military base": "Military Base",
@@ -51,6 +52,7 @@
         "space station": "Space Station",
         "submarine": "Submarine",
         "supermarket": "Supermarket",
+        "swimming pool": "Swimming Pool",
         "theater": "Theater",
         "university": "University",
         "world war ii squad": "World War II Squad",
@@ -145,6 +147,13 @@
                 "diplomat": "Diplomat",
                 "government official": "Government Official"
             },
+            "farm": {
+                "farm manager": "Farm Manager",
+                "machine operator": "Machine Operator",
+                "shepard": "Shepard",
+                "milker": "Milker",
+                "fruit picker": "Fruit Picker"
+            },
             "hospital": {
                 "nurse": "Nurse",
                 "doctor": "Doctor",
@@ -235,6 +244,14 @@
                 "waiter": "Waiter",
                 "customer": "Customer"
             },
+            "rock concert": {
+                "musician": "Musician",
+                "security guard": "Security Guard",
+                "partygoer": "Partygoer",
+                "bartender": "Bartender",
+                "sound technician": "Sound Technician",
+                "heavy lifter": "Heavy Lifter"
+            },
             "school": {
                 "gym teacher": "Gym Teacher",
                 "principal": "Principal",
@@ -279,6 +296,13 @@
                 "food sample demonstrator": "Food Sample Demonstrator",
                 "shelf stocker": "Shelf Stocker",
                 "customer": "Customer"
+            },
+            "swimming pool": {
+                "swimmer": "Swimmer",
+                "receptionist": "Receptionist",
+                "life guard": "Life Guard",
+                "cleaner": "Cleaner",
+                "maintenance man": "Maintenance Man"
             },
             "theater": {
                 "coat check lady": "Coat Check Lady",

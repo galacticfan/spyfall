@@ -120,6 +120,16 @@ locations = [
     ]
   },
   {
+    name: 'locations.farm',
+    roles: [
+      'locations.roles.farm.farm manager',
+      'locations.roles.farm.machine operator',
+      'locations.roles.farm.shepard',
+      'locations.roles.farm.milker',
+      'locations.roles.farm.fruit picker',
+    ]
+  },
+  {
     name: 'locations.hospital',
     roles: [
       'locations.roles.hospital.nurse',
@@ -240,6 +250,17 @@ locations = [
     ]
   },
   {
+    name: 'locations.rock concert',
+    roles: [
+      'locations.roles.rock concert.musician',
+      'locations.roles.rock concert.security guard',
+      'locations.roles.rock concert.partygoer',
+      'locations.roles.rock concert.bartender',
+      'locations.roles.rock concert.sound technician',
+      'locations.roles.rock concert.heavy lifter'
+    ]
+  },
+  {
     name: 'locations.school',
     roles: [
       'locations.roles.school.gym teacher',
@@ -297,6 +318,16 @@ locations = [
       'locations.roles.supermarket.food sample demonstrator',
       'locations.roles.supermarket.shelf stocker',
       'locations.roles.supermarket.customer'
+    ]
+  },
+  {
+    name: 'locations.swimming pool',
+    roles: [
+      'locations.roles.swimming pool.swimmer',
+      'locations.roles.swimming pool.receptionist',
+      'locations.roles.swimming pool.life guard',
+      'locations.roles.swimming pool.cleaner',
+      'locations.roles.swimming pool.maintenance man',
     ]
   },
   {
